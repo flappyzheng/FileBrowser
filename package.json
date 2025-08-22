@@ -1,0 +1,11 @@
+{
+  "name": "com.yourname.filebrowser",  
+  "version": "1.0.0",                 
+  "displayName": "File Browser Tool",  
+  "description": "A Unity editor tool for browsing and opening files in specified directories.", 
+  "unity": "2020.3",                   
+  "author": {
+    "name": "Flappy"              
+  },
+  "keywords": ["file browser", "editor tool", "utility"]
+}
